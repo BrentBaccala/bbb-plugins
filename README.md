@@ -32,7 +32,7 @@ Here is a list of unofficial, community-contributed plugins.
 | Plugin Name                         | Maturity   | Description                                                                                                                                                                                                 | Repository Link                                                                                           |
 |-------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | bbb-plugin-remote-desktop           | Production | Allows interactive use of VNC desktops (both view and operate) in the presentation area                      | [Repository](https://github.com/BrentBaccala/bbb-plugin-remote-desktop)
-| bbb-plugin-rtt-monitor              | Production | Shows moderators a graph of measured round trip times                                                        | [Repository](https://github.com/BrentBaccala/bbb-rtt-monitor)
+| bbb-plugin-rtt-monitor              | Production | Shows moderators a graph of measured round trip times                                                        | [Repository](https://github.com/BrentBaccala/bbb-plugin-rtt-monitor)
 
 ## Capabilities and technical details
 
